@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+xbt2dds
+</name>
+</assembly>
+<members>
+<member name="M:xbt2dds.MOD_XBT2.ReadStringABSLen(System.IO.BinaryReader,System.UInt32)">
+	<summary>
+ Takes a binary stream reads set many bytes returns string without any trails
+ </summary>
+	<param name="ii_Reader"></param>
+	<param name="bytes2read"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:xbt2dds.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:xbt2dds.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:xbt2dds.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
